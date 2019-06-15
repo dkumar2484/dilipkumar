@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "INDIA vs PAKISTAN";
+?>
+
+</body>
+</html>
